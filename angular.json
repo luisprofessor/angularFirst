@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "basesangular"
+  "defaultProject": "basesangular",
+  "cli": {
+    "analytics": false
+  }
 }
